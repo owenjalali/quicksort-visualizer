@@ -4,8 +4,6 @@
 
 ## Problem Breakdown & Computational Thinking
 
-
-
 ### **Decomposition**
 
 - For the algorithm quicksort, 5 main steps are crucial for its functionality.
@@ -19,7 +17,6 @@
 - Put the pivot into the correct place, its final sorted index, and recursively call the quicksort function for the left subarray and the right subarray.
 
 - Lastly, the base case, which if the subarray has no more swapped elements, we return.
-
 
 
 ### **Pattern Recognition**
@@ -41,7 +38,6 @@
   - Subarray sorting
 
 
-
 ### **Abstraction**
 
 - The visualization shows only the helpful information, such as the array values, pivot index, and pointer positions.
@@ -49,7 +45,6 @@
 - Hidden details include which recursion stack, implementation noise like function call overhead, and very tiny intermediate states that do not help with understanding.
 
 - The UI focuses on the array, pointer indices, and a short description for each step.
-
 
 
 ### **Algorithm Design**
@@ -75,6 +70,9 @@
   - Buttons for “Next step,” “Previous step,” and “Auto play”
 
   - Array shown using bar-graph style formatting
+ 
+## Flowchart
+![Flowchart](images/flowchart.png)
 
 ## Steps to Run
 1. Install dependencies using:
