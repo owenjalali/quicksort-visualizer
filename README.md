@@ -19,6 +19,7 @@ Duplicates          '5,5,5,5,5,5,5'  Sorted correctly       Passed
 Next/Back buttons   UI navigation    Smooth transitions     Passed 
 Auto-play           Full animation   No freeze              Passed 
 
+![Demo](images/QuickStortAppDemo.gif)
 
 ## Problem Breakdown & Computational Thinking
 
