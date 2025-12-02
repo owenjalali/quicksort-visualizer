@@ -2,6 +2,17 @@
 
 ## Demo video/gif/screenshot of test
 
+Test                  Input            Expected Output      Result
+ 
+Manual array        `7,3,1,9,5`      Sorted  1,3,5,7,9      Passed 
+Invalid array       `a,3,5`          Error message          Passed 
+Invalid Size        Size = eee       Error message          Passed 
+Edge case           `5`              Returns immediately    Passed 
+Duplicates          '5,5,5,5,5,5,5'  Sorted correctly       Passed 
+Next/Back buttons   UI navigation    Smooth transitions     Passed 
+Auto-play           Full animation   No freeze              Passed 
+
+
 ## Problem Breakdown & Computational Thinking
 
 ### **Decomposition**
