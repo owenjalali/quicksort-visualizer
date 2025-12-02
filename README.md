@@ -1,14 +1,21 @@
 # Quicksort Algorithm 
 
-## Demo video/gif/screenshot of test
+## Screenshot's of testing
 
 Test                  Input            Expected Output      Result
  
 Manual array        `7,3,1,9,5`      Sorted  1,3,5,7,9      Passed 
+![ManualArray](images/SortingArrayTest.png)
 Invalid array       `a,3,5`          Error message          Passed 
+![InvalidArray](images/InvalidArrayTest.png)
 Invalid Size        Size = eee       Error message          Passed 
+![InvalidSize](images/InvalidDataTypeforSize.png)
 Edge case           `5`              Returns immediately    Passed 
+![EdgeCase](images/EdgeCaseTest.png)
 Duplicates          '5,5,5,5,5,5,5'  Sorted correctly       Passed 
+![Duplicate](images/DuplicateArrayTest.png)
+
+## Video Testing
 Next/Back buttons   UI navigation    Smooth transitions     Passed 
 Auto-play           Full animation   No freeze              Passed 
 
