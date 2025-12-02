@@ -61,7 +61,7 @@
 
   - the index that is at the pivot, which indices are being swapped/compared to by arrows
 
-  - Text explanations example "swapped 6 and 7")
+  - Text explanations example "swapped 6 and 7"
 
 - The Gradio interface displays:
 
