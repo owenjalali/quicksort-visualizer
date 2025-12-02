@@ -86,7 +86,8 @@
 3. Open the Gradio link in your browser.
 4. Enter a custom array or pick a size.
 5. Click **Start Sort**.
-6. Use **Next**, **Back**, **Auto-play**, and the slider to navigate steps.
+6. Click Play to watch the animation for the sort
+7. Use **Next**, **Back** and the slider to navigate steps.
 
 
 ## Hugging Face Link
